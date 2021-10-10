@@ -4,7 +4,5 @@ function getCountry(){
     let country ={
         name : CountryName.value,   
     }
-    
-
 }
 
